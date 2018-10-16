@@ -1,0 +1,37 @@
+.ui.borderless.menu {
+  background-color: white;
+  box-shadow: none;
+  border: none;
+  padding-top: 30px;
+}
+
+.topmenu {
+  background-color: #f5f5f5;
+}
+
+.ui.centered.grid.container {
+  margin-top: 50px;
+}
+
+#secondmenu {
+  background-color: white;
+}
+
+.ui.fluid.image {
+  margin-top: 20px;
+}
+
+.black-background {
+  background-color: #292929;
+  color: whitesmoke;
+  height: 200px;
+}
+
+.colorblocktop {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.footertxt {
+  color: whitesmoke;
+}
